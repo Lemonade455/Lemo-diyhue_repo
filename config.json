@@ -1,7 +1,7 @@
 {
-  "name": "diyHue Pair Assistant",
+  "name": "Lemonade455-diyhue",
   "version": "1.0",
-  "slug": "diyhue_pair_assistant",
+  "slug": "Lemonade455-diyhue",
   "description": "Hue Bridge emulator + pairing assistant.",
   "arch": [
     "armv7",
